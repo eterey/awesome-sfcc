@@ -16,8 +16,12 @@
 - [Trailhead](https://trailhead.salesforce.com/en/search?keywords=B2C%20Commerce) - Learning experience platform — a library of educational content.
 
 ## IDE
-- [IntelliJ SFCC](https://plugins.jetbrains.com/plugin/13668-salesforce-b2c-commerce-sfcc-) - Full featured support of the Salesforce B2C Commerce Cloud platform for the IntelliJ IDE.
-- [Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet) - Visual Studio Code extension to work with Demandware/Salesforce Cloud code on Sandbox that supports the Script Debugger API (SDAPI) 2.0.
+- [SFCC Studio](https://github.com/nek4life/sfcc-studio) - Salesforce Commerce Cloud (SFCC) Studio Plugin for Jetbrains IDEs.
+- [IntelliJ SFCC](https://plugins.jetbrains.com/plugin/13668-salesforce-b2c-commerce-sfcc-) - Full featured support for the Salesforce B2C Commerce (Salesforce Commerce Cloud / SFCC ) platform.
+- [Prophet Debugger](https://github.com/SqrTT/prophet) - Visual Studio Code extension to work with Demandware/Salesforce Cloud code on Sandbox that supports the Script Debugger API (SDAPI) 2.0.
+
+# Tools
+[SFCC DevTools](https://github.com/redvanworkshop/sfcc-devtools) - Support Browser Interaction with Visual Studio Code, Eclipse, and SFCC Business Manager via DevTools Web Inspector.
 
 ## Open Source
 - [SFCC on Github](https://github.com/SalesforceCommerceCloud/) - The Salesforce Commerce Cloud orgnization on the Github.
