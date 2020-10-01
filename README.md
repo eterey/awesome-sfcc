@@ -21,7 +21,7 @@
 - [Prophet Debugger](https://github.com/SqrTT/prophet) - Visual Studio Code extension to work with Demandware/Salesforce Cloud code on Sandbox that supports the Script Debugger API (SDAPI) 2.0.
 
 ## Tools
-[SFCC DevTools](https://github.com/redvanworkshop/sfcc-devtools) - Support Browser Interaction with Visual Studio Code, Eclipse, and SFCC Business Manager via DevTools Web Inspector.
+- [SFCC DevTools](https://github.com/redvanworkshop/sfcc-devtools) - Support Browser Interaction with Visual Studio Code, Eclipse, and SFCC Business Manager via DevTools Web Inspector.
 
 ## Open Source
 - [SFCC on Github](https://github.com/SalesforceCommerceCloud/) - The Salesforce Commerce Cloud orgnization on the Github.
@@ -32,6 +32,7 @@
 - [Demo SG](https://production-sitegenesis-dw.demandware.net/on/demandware.store/Sites-SiteGenesis-Site) - Live SiteGenesis demo webiste, where it's possible to test out-of-the-box functionality for the SiteGenesis website.
 - [Demo SFRA](https://production.sitegenesis.dw.demandware.net/s/RefArch/home?lang=en_US) - Live Storefront Reference Architecture demo webiste, where it's possible to test out-of-the-box functionality for the SFRA website.
 - [sfcc-unofficial.slack.com](https://sfcc-unofficial.slack.com/) - Unofficial Salesforce B2C Commerce Cloud Slack with thousands of SFCC developers, also here is the Github repository with documentation and instructions for this Slack: [github.com/sfcc-unofficial/docs](https://github.com/sfcc-unofficial/docs).
+- [Commerce Cloud Partner Marketplace](https://www.salesforce.com/products/commerce-cloud/partner-marketplace/) - The list of Link Cartridges, which helps to establish an integration with third-party services.
 
 ## Related
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
