@@ -33,6 +33,8 @@
 - [Demo SFRA](https://production.sitegenesis.dw.demandware.net/s/RefArch/home?lang=en_US) - Live Storefront Reference Architecture demo webiste, where it's possible to test out-of-the-box functionality for the SFRA website.
 - [sfcc-unofficial.slack.com](https://sfcc-unofficial.slack.com/) - Unofficial Salesforce B2C Commerce Cloud Slack with thousands of SFCC developers, also here is the Github repository with documentation and instructions for this Slack: [github.com/sfcc-unofficial/docs](https://github.com/sfcc-unofficial/docs).
 - [Commerce Cloud Partner Marketplace](https://www.salesforce.com/products/commerce-cloud/partner-marketplace/) - The list of Link Cartridges, which helps to establish an integration with third-party services.
+- [11 Days of SFRA](https://medium.com/perimeterx/11-days-of-salesforce-storefront-reference-architecture-sfra-day-1-what-is-sfra-adece16f3703) - Johnny Tordgeman
+shares his experience of working with the Salesforce Storefront Reference Architecture.
 
 ## Related
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
