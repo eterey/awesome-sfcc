@@ -29,6 +29,8 @@
 ## Resources and articles
 - [Youtube channel](https://www.youtube.com/c/commercecloud/) - Videos related to the Salesforce Commerce Cloud platform.
 - [Blog](https://www.salesforce.com/blog/category/commerce.html) - Latest news from Salesforce.
+- [Demo SG](https://production-sitegenesis-dw.demandware.net/on/demandware.store/Sites-SiteGenesis-Site) - Live SiteGenesis demo webiste
+- [Demo SFRA](https://production.sitegenesis.dw.demandware.net/s/RefArch/home?lang=en_US) - Live Storefront Reference Architecture demo webiste
 
 ## Related
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
