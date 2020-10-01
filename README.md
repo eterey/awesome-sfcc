@@ -2,6 +2,8 @@
 
 # Awesome Salesforce Commerce Cloud (also known as SFCC, formerly Demandware)
 
+<img src="https://raw.githubusercontent.com/uzumaxy/awesome-sfcc/master/assets/sfcc-logo.jpg" align="right" width="256" height="256">
+
 ## Contents
 - [Learn](#learn)
 - [IDE](#ide)
