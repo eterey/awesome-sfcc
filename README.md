@@ -31,7 +31,7 @@
 - [Blog](https://www.salesforce.com/blog/category/commerce.html) - Latest news from Salesforce.
 - [Demo SG](https://production-sitegenesis-dw.demandware.net/on/demandware.store/Sites-SiteGenesis-Site) - Live SiteGenesis demo webiste, where it's possible to test out-of-the-box functionality for the SiteGenesis website.
 - [Demo SFRA](https://production.sitegenesis.dw.demandware.net/s/RefArch/home?lang=en_US) - Live Storefront Reference Architecture demo webiste, where it's possible to test out-of-the-box functionality for the SFRA website.
-- [sfcc-unofficial.slack.com](https://sfcc-unofficial.slack.com/) - Unofficial Salesforce B2C Commerce Cloud Slack with thousands of SFCC developers; the list of organizations, which provides access for their employees to this Slack, can be found on the [sign-up page](https://sfcc-unofficial.slack.com/signup#/), but it's also possible to request an access manually using [this access request form](https://goo.gl/forms/PN4cRA2Vx2reTYj92).
+- [sfcc-unofficial.slack.com](https://sfcc-unofficial.slack.com/) - Unofficial Salesforce B2C Commerce Cloud Slack with thousands of SFCC developers, also here is the Github repository with documentation and instructions for this Slack: [github.com/sfcc-unofficial/docs](https://github.com/sfcc-unofficial/docs).
 
 ## Related
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
