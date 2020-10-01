@@ -1,6 +1,4 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-# Awesome Salesforce Commerce Cloud (also known as SFCC, formerly Demandware)
+# Awesome Salesforce Commerce Cloud (also known as SFCC, formerly Demandware) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="https://raw.githubusercontent.com/uzumaxy/awesome-sfcc/master/assets/sfcc-logo.jpg" align="right" width="256" height="256">
 
@@ -44,3 +42,8 @@ shares his experience of working with the Salesforce Storefront Reference Archit
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+
+
+
+## Contribute
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
