@@ -26,6 +26,7 @@
 ## Open Source
 - [SFCC on Github](https://github.com/SalesforceCommerceCloud/) - The Salesforce Commerce Cloud orgnization on the Github.
 - [mobify/commercecloud-ocapi-client](https://github.com/mobify/commercecloud-ocapi-client) - Salesforce Commerce Cloud Open Commerce API (OCAPI) client for Node and browsers.
+- [FabiowQuixada/isml-linter](https://github.com/FabiowQuixada/isml-linter) - ISML Linter is a tool for examining if your project's templates follow a specified set of rules defined by your dev team.
 
 ## Resources and articles
 - [B2C Commerce Overview](https://www.salesforce.com/products/commerce-cloud/ecommerce/) - Overview page which describes how Salesforce B2C Commerce can help you create unified, intelligent digital commerce experiences — both online and in the store.
