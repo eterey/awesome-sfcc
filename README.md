@@ -12,8 +12,14 @@
 
 
 ## Learn
-- [Infocenter](https://documentation.b2c.commercecloud.salesforce.com/DOC1/index.jsp) - Official Salesforce B2C Commerce Cloud documentation.
 - [Trailhead](https://trailhead.salesforce.com/en/search?keywords=B2C%20Commerce) - Learning experience platform — a library of educational content.
+- [Salesforce Commerce Cloud Developer Center](https://developer.salesforce.com/developer-centers/commerce-cloud)
+- [Official Salesforce B2C Commerce Cloud documentation](https://salesforcecommercecloud.github.io/b2c-dev-doc/)
+- [Official Open Commerce API \(OCAPI\) documentation](https://developer.salesforce.com/docs/commerce/b2c-commerce/references/b2c-commerce-ocapi/get-started-with-ocapi.html)
+- [Official Salesforce B2C Commerce API documentation](https://developer.salesforce.com/docs/commerce/commerce-api/guide)
+- [B2C Commerce Release Notes](https://help.salesforce.com/s/articleView?id=sf.b2c_rn_release_notes.htm&type=5)
+- [B2C Commerce for merchandisers and administrators](https://help.salesforce.com/s/articleView?language=en_US&id=cc.b2c_getting_started.htm&type=5)
+
 
 ## IDE
 - [SFCC Studio](https://github.com/nek4life/sfcc-studio) - Salesforce Commerce Cloud (SFCC) Studio Plugin for Jetbrains IDEs.
