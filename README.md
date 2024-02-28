@@ -30,9 +30,21 @@
 - [SFCC DevTools](https://github.com/redvanworkshop/sfcc-devtools) - Support Browser Interaction with Visual Studio Code, Eclipse, and SFCC Business Manager via DevTools Web Inspector.
 
 ## Open Source
+### Integrations
+- [Adyen/adyen-salesforce-commerce-cloud](https://github.com/Adyen/adyen-salesforce-commerce-cloud) - This cartridge allows you to integrate with Adyen without the need for any development work from your end.
+- [Worldpay/salesforce-commerce-cloud](https://github.com/Worldpay/salesforce-commerce-cloud) - Worldpay Salesforce Commerce Cloud Cartridge.
+- [afterpay/afterpay-salesforce-commerce-cloud](https://github.com/afterpay/afterpay-salesforce-commerce-cloud) - Afterpay cartridge for Salesforce Commerce Cloud.
+- [cloudinary/cloudinary_sfcc_site_cartridge](https://github.com/cloudinary/cloudinary_sfcc_site_cartridge) - Integration with Cloudinary - a cloud service that offers a solution to any application's entire media management pipeline.
+
+### Other
 - [SFCC on Github](https://github.com/SalesforceCommerceCloud/) - The Salesforce Commerce Cloud orgnization on the Github.
 - [mobify/commercecloud-ocapi-client](https://github.com/mobify/commercecloud-ocapi-client) - Salesforce Commerce Cloud Open Commerce API (OCAPI) client for Node and browsers.
 - [FabiowQuixada/isml-linter](https://github.com/FabiowQuixada/isml-linter) - ISML Linter is a tool for examining if your project's templates follow a specified set of rules defined by your dev team.
+- [murceca/SFCC-Utils](https://github.com/murceca/SFCC-Utils) - SFCC-Utils cartridge is a set of utilities for a typical SFCC (Salesforce Commerce Cloud) project.
+- [nek4life/sfcc-studio](https://github.com/nek4life/sfcc-studio) - Salesforce Commerce Cloud (SFCC) Studio Plugin for Jetbrains IDEs.
+- [forcedotcom/postman-commerce-cloud-apis](https://github.com/forcedotcom/postman-commerce-cloud-apis) - Salesforce Commerce Cloud API Collection for Postman.
+- [epam/headless-commerce-salesforce-accelerator](https://github.com/epam/headless-commerce-salesforce-accelerator) - Headless Commerce Accelerator for Salesforce Commerce Cloud.
+- [openmindlab/sfcc-schemas](https://github.com/openmindlab/sfcc-schemas) - Salesforce Commerce Cloud import and export schemas validator.
 
 ## Resources and articles
 - [B2C Commerce Overview](https://www.salesforce.com/products/commerce-cloud/ecommerce/) - Overview page which describes how Salesforce B2C Commerce can help you create unified, intelligent digital commerce experiences — both online and in the store.
